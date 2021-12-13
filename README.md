@@ -12,16 +12,5 @@ I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to sol
 
 <p align="left"> 
 
-  <a>
-    <img alt="DART" width="50px" height="50%" src="https://img.shields.io/badge/Javascript-AE00FF?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-  </a>
-&emsp;
-  <a href="https://go.dev/">
-      <img alt="DART" width="50px" height="50%" src="https://img.shields.io/badge/go-33D7FF?style=for-the-badge&logo=go&logoColor=blue"/>
-    </a>
-&emsp;
-  <a>
-      <img alt="DART" width="50px" height="50%" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"/>
-    </a>
-&emsp;
+ 
 </p>
