@@ -13,7 +13,7 @@ I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to sol
 <p align="left"> 
 
   <a href="https://nodejs.org/en/">
-    <img alt="DART" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>
+    <img alt="DART" width="50px" height="50%" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>
   </a>
 &emsp;
 
