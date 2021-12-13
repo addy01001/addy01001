@@ -12,8 +12,8 @@ I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to sol
 
 <p align="left"> 
 
-  <a href="https://nodejs.org/en/">
-    <img alt="DART" width="50px" height="50%" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>
+  <a>
+    <img alt="DART" width="50px" height="50%" src="https://img.shields.io/badge/Javascript-AE00FF?style=for-the-badge&logo=javascript&logoColor=yellow"/>
   </a>
 &emsp;
   <a href="https://go.dev/">
