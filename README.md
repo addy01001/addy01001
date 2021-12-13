@@ -16,5 +16,9 @@ I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to sol
     <img alt="DART" width="50px" height="50%" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"/>
   </a>
 &emsp;
+  <a href="https://go.dev/">
+      <img alt="DART" width="50px" height="50%" src="https://logos-download.com/wp-content/uploads/2019/01/Golang_Logo.png"/>
+    </a>
+&emsp;
 
 </p>
