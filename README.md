@@ -17,7 +17,7 @@ I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to sol
   </a>
 &emsp;
   <a href="https://go.dev/">
-      <img alt="DART" width="50px" height="50%" src="https://logos-download.com/wp-content/uploads/2019/01/Golang_Logo-700x340.png"/>
+      <img alt="DART" width="50px" height="50%" src="https://img.shields.io/badge/go-33D7FF?style=for-the-badge&logo=go&logoColor=blue"/>
     </a>
 &emsp;
   <a>
