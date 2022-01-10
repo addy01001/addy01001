@@ -28,3 +28,5 @@ I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to sol
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=addy01001&theme=gruvbox&hide_border=true&area=true)
