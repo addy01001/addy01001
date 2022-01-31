@@ -29,4 +29,6 @@ I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to sol
 
 <br/>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=addy01001&theme=blue-green)
+
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=addy01001&theme=gruvbox&hide_border=true&area=true)
