@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to solve **real-world problems**:earth_asia:. I'm passionate about making **proprietary** and unaccessible code that only i can read, creating tools to help people, and **building a community**. I love to copy and paste, just like I've done with this profile. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to solve **real-world problems**:earth_asia:. I'm passionate about making **proprietary** and unaccessible code that only i can read, creating tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 
 
@@ -28,7 +28,5 @@ I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to sol
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=addy01001&theme=blue-green)
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=addy01001&theme=gruvbox&hide_border=true&area=true)
