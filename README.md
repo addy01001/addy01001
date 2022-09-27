@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm a mechanincal engineer turned into **Backend Developer**. I'm looking to solve **real-world problems**:earth_asia:. I'm passionate about making **proprietary** and unaccessible code that only i can read, creating tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm a **Backend Developer**. I'm looking to solve **real-world problems**:earth_asia:. I'm passionate about making **proprietary** and unaccessible code that only i can read, creating tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 
 
